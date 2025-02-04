@@ -1,6 +1,6 @@
 Project Description: Multi-Tier Web Application Stack Deployment on AWS
 Overview
-This project focuses on deploying a multi-tier web application stack (VPROFILE) using AWS cloud infrastructure. The architecture consists of multiple layers, including load balancers, application servers, databases, message brokers, and caching servers to ensure scalability, security, and high availability. The entire deployment process is automated using Bash scripts for infrastructure provisioning and application setup.
+This project focuses on deploying a multi-tier web application stack using AWS cloud infrastructure. The architecture consists of multiple layers, including load balancers, application servers, databases, message brokers, and caching servers to ensure scalability, security, and high availability. The entire deployment process is automated using Bash scripts for infrastructure provisioning and application setup.
 
 📌 Project Objectives
 Deploy a multi-tier web application on AWS.
